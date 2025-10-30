@@ -37,3 +37,5 @@ and more.
 
 
 The goal is to provide runnable, well-documented code that can be trained on free platforms (Kaggle/Colab) when using smaller model sizes or efficient training techniques. I’d like someone to train the model and upload the final model weights (.pth) to this repository so I can test and study the results.
+
+by mujtaba ghulami
